@@ -21,5 +21,3 @@ In order to get the game running, run the alien_invasion.py file.
 **Screenshot**
 ![Alien Invaders](C:\Users\jordi\Alien Invaders.jpg)
 
-**Author**
-Yarden Galon
