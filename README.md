@@ -23,4 +23,8 @@ before making a Pull Request:
 
 ## Report a Bug 🐛
 
-- Help us improve scripts. Report bugs [here](https://github.com/GroupOfCode/Python-Scripts/issues)
+- Help us improve scripts. Report bugs [here](https://github.com/GroupOfCode/Python-Scripts/issues) <br/>
+
+
+##
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
