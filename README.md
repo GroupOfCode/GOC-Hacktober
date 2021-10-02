@@ -23,7 +23,7 @@ before making a Pull Request:
 
 ## Report a Bug 🐛
 
-- Help us improve scripts. Report bugs [here](https://github.com/GroupOfCode/Python-Scripts/issues)
+- Help us improve scripts. Report bugs [here](https://github.com/GroupOfCode/Python-Scripts/issues) <br/>
 
 
 
